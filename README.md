@@ -1,6 +1,6 @@
 # BlackjackHighest
 
-Solution overview
+## <b>Solution overview</B>
 
 ```mermaid
 graph TD 
